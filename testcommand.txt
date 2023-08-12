@@ -7,7 +7,8 @@ git restore
 git log --oneline
 git log --oneline --pretty
 git config --globl user.name "username"
-git config --global user.email "emailid of user"
+git config --global user.email "emailid of user
+git checkout -b dev"
 ls
 cd
 pwd
