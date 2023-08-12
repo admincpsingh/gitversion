@@ -4,6 +4,10 @@ git rm -cached
 git commit
 git log
 git restore
+git log --oneline
+git log --oneline --pretty
+git config --globl user.name "username"
+git config --global user.email "emailid of user"
 ls
 cd
 pwd
