@@ -7,3 +7,5 @@ User this command for create connection for repo
   205  sudo git remote -v
   206  sudo git status
   207  sudo git checkout master
+bcack in good code
+git revert commit_ID
