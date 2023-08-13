@@ -9,6 +9,12 @@ git log --oneline --pretty
 git config --globl user.name "username"
 git config --global user.email "emailid of user
 git checkout -b dev"
+User this command for create connection for repo
+                                          ----------------toket_url------------@git_url_repo
+  204  sudo git remote add origin https://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@github.com/admincpsingh/gitversion.git
+  205  sudo git remote -v
+  206  sudo git status
+  207  sudo git checkout master
 ls
 cd
 pwd
